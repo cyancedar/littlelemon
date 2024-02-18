@@ -1,1 +1,1 @@
-# littlelemon
+# littlelemon meta coursera capstone project
